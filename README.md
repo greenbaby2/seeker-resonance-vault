@@ -1,5 +1,9 @@
 # The Seeker: Resonance Vault
 
+## [▶ Play Resonance Vault](https://greenbaby2.github.io/seeker-resonance-vault/)
+
+Play free in your browser — no download or account needed.
+
 A tactical match-three expedition beneath an icy planet. Swap mineral tablets,
 thaw frost, repel cave spiders, and uncover six chambers of Theorem's lost archive.
 This is a community interpretation of The Seeker universe, not a canonical ending.
